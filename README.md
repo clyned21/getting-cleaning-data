@@ -8,6 +8,7 @@ My project contains 3 files as required for this project.
 the data and execute all the required steps
 
 3. CodeBook.md describes the variables, the data, and transformations or work that I performed to clean up the data 
+
 CodeBok.md contains:
 - All the original metadata from the features_info file
 - Activity labels from activity_labels
